@@ -5,5 +5,4 @@
 
 Here are some ideas to get you started:
 
-- 👯 I’m looking to collaborate on a small project to start me in networks
--->
+--> 👯 I’m looking to collaborate on a small project to start me in networks
